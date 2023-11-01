@@ -34,6 +34,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text(
           'Shopping List',
         ),
+        foregroundColor: Colors.white,
+        backgroundColor: Colors.indigo,
       ),
       body: SingleChildScrollView(
         // Widget wrapper yang dapat discroll
